@@ -1,26 +1,49 @@
 {
+ {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "name": "Mina Girgis",
+    "label": "Computer Engineering Student",
+    "picture": "https://github.com/mgirgis12.png",
+    "email": "mgirgis@hawaii.edu",
+    "phone": "",
+    "website": "https://mgirgis12.github.io",
+    "summary": "I am a Computer Engineering student at the University of Hawaii. I am interested in embedded systems, industrial automation, hardware, and AI security.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Honolulu",
+      "countryCode": "USA",
+      "region": "Hawaii"
+    },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      {
+        "network": "github",
+        "username": "mgirgis12",
+        "url": "https://github.com/mgirgis12"
+      },
+      {
+        "network": "linkedin",
+        "username": "Mina Girgis",
+        "url": "https://www.linkedin.com/in/mgirgis1012"
+      }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    {
+      "name": "Embedded Systems"
+    },
+    {
+      "name": "Industrial Automation"
+    },
+    {
+      "name": "Hardware Engineering"
+    },
+    {
+      "name": "AI Security"
+    },
+    {
+      "name": "Cybersecurity"
+    }
   ],
   "skills": [
     {
