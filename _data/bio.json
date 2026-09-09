@@ -1,5 +1,4 @@
 {
- {
   "basics": {
     "name": "Mina Girgis",
     "label": "Computer Engineering Student",
@@ -23,7 +22,7 @@
       },
       {
         "network": "linkedin",
-        "username": "Mina Girgis",
+        "username": "mgirgis1012",
         "url": "https://www.linkedin.com/in/mgirgis1012"
       }
     ]
@@ -44,7 +43,8 @@
     {
       "name": "Cybersecurity"
     }
-  ],
+  ]
+}
   "skills": [
     {
       "name": "Languages and Frameworks",
