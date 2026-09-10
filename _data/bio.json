@@ -6,7 +6,7 @@
     "email": "mgirgis@hawaii.edu",
     "phone": "",
     "website": "https://mgirgis12.github.io",
-    "summary": "I am a Computer Engineering student at the University of Hawaii. I am interested in embedded systems, hardware, AI security, and cybersecurity.",
+    "summary": "I am a Computer Engineering student at the University of Hawaii. I am interested in hardware, embedded systems, AI security, cybersecurity, electrical systems, and software engineering. I enjoy learning how hardware and software work together to solve engineering problems.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -22,11 +22,12 @@
       },
       {
         "network": "linkedin",
-        "username": "mgirgis1012",
+        "username": "Mina Girgis",
         "url": "https://www.linkedin.com/in/mgirgis1012"
       }
     ]
   },
+
   "interests": [
     {
       "name": "Embedded Systems"
@@ -39,36 +40,66 @@
     },
     {
       "name": "Cybersecurity"
+    },
+    {
+      "name": "Software Engineering"
+    },
+    {
+      "name": "Electrical Systems"
     }
   ],
+
   "skills": [
     {
-      "name": "Programming",
+      "name": "Programming Languages",
       "keywords": [
         "C",
         "C++",
-        "TypeScript"
+        "TypeScript",
+        "SQL"
       ]
     },
     {
-      "name": "Tools and Systems",
+      "name": "Software and Tools",
       "keywords": [
-        "Git/GitHub",
+        "Git",
+        "GitHub",
         "Linux",
         "MATLAB",
-        "LTspice"
+        "LTspice",
+        "MySQL"
       ]
     },
     {
-      "name": "Technical Areas",
+      "name": "Hardware and Engineering",
       "keywords": [
         "Circuit Design",
         "Embedded Systems",
+        "Electrical Systems",
+        "Hardware Troubleshooting"
+      ]
+    },
+    {
+      "name": "Security",
+      "keywords": [
         "AI Security",
+        "LLM Security",
+        "RAG Security",
+        "Digital Forensics",
         "Cybersecurity"
+      ]
+    },
+    {
+      "name": "Software Engineering",
+      "keywords": [
+        "Object-Oriented Programming",
+        "Database Systems",
+        "Software Testing",
+        "Version Control"
       ]
     }
   ],
+
   "education": [
     {
       "institution": "University of Hawaii at Manoa",
@@ -76,7 +107,13 @@
       "studyType": "B.S.",
       "startDate": "",
       "endDate": "Present",
-      "courses": []
+      "courses": [
+        "Software Engineering",
+        "Database Systems",
+        "Computer Forensics and Investigations",
+        "Computer Engineering",
+        "Electrical and Computer Engineering"
+      ]
     },
     {
       "institution": "Honolulu Community College",
@@ -87,6 +124,7 @@
       "courses": []
     }
   ],
+
   "work": [
     {
       "company": "UAC Builders",
@@ -94,11 +132,14 @@
       "website": "",
       "startDate": "",
       "endDate": "",
-      "summary": "Worked with industrial automation and electrical systems.",
+      "summary": "Gained hands-on experience with industrial automation, electrical systems, and engineering equipment.",
       "highlights": [
-        "Learned about PLC and industrial control systems",
-        "Worked with engineering hardware and software",
-        "Assisted with industrial automation projects"
+        "Worked with engineers on industrial automation and electrical systems",
+        "Gained exposure to PLC systems and industrial control equipment",
+        "Worked with GE Fanuc 90-30 and ABB AC500 systems",
+        "Learned about HMI systems used to monitor and control equipment",
+        "Assisted with hardware, communication, and system troubleshooting",
+        "Gained experience working with engineering documentation and electrical systems"
       ]
     },
     {
@@ -107,13 +148,33 @@
       "website": "",
       "startDate": "",
       "endDate": "",
-      "summary": "Worked with electrical systems and equipment.",
+      "summary": "Gained hands-on experience working with electrical systems and equipment.",
       "highlights": [
         "Worked with electrical equipment and installations",
-        "Gained hands-on experience with electrical systems"
+        "Gained hands-on experience with electrical systems",
+        "Worked with tools and equipment in a professional environment",
+        "Developed practical troubleshooting and problem-solving skills"
       ]
     }
   ],
+
+  "volunteer": [
+    {
+      "organization": "Technical Projects",
+      "website": "",
+      "position": "AI Security Research",
+      "startDate": "",
+      "endDate": "",
+      "summary": "Worked on projects exploring security weaknesses in artificial intelligence systems.",
+      "highlights": [
+        "Tested large language models using jailbreaking techniques",
+        "Explored prompt-based attacks and AI system behavior",
+        "Studied RAG poisoning and how untrusted information can affect AI responses",
+        "Analyzed security risks involving large language models and RAG systems"
+      ]
+    }
+  ],
+
   "references": [
     {
       "name": "Available upon request"
