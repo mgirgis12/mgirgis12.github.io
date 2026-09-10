@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/anygpt/anygpt-square.png
+image: img/ANYGPT.png
 title: "AnyGPT: Multimodal AI Platform"
 date: 2026-05-01
 published: true
