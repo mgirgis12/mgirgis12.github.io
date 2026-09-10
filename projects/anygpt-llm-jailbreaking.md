@@ -2,18 +2,22 @@
 layout: project
 type: project
 image: img/anygpt/anygpt-square.png
-title: "AnyGPT: LLM Jailbreaking and AI Security"
+title: "AnyGPT: Multimodal AI Platform"
 date: 2026-05-01
 published: true
 labels:
-  - AI Security
-  - LLM
-  - Cybersecurity
-summary: "An AI security project focused on testing large language models using jailbreaking techniques."
+  - Artificial Intelligence
+  - TypeScript
+  - React
+  - Python
+  - Multimodal AI
+summary: "A customizable multimodal AI platform that supports text, image, audio, and custom prompts."
 ---
 
-For this project, I worked on AI security by testing large language models using different jailbreaking techniques. The goal was to understand how an AI system can respond when users try to get around its normal restrictions.
+## AnyGPT
 
-I tested different prompts and analyzed how the model responded. This helped me understand some of the security challenges with large language models and why it is important to test AI systems for weaknesses.
+AnyGPT is a customizable multimodal AI platform designed to work with different types of AI content in one system. The platform supports text, image, audio, and custom prompts, giving users different ways to interact with AI.
 
-This project gave me more experience with AI security, prompt testing, and understanding how large language models behave.
+The project uses React and TypeScript for the frontend and Python for the backend. The system connects the frontend to different AI models and APIs depending on the type of request. This allows one interface to handle different AI features instead of needing a separate application for each one.
+
+Working on AnyGPT gave me experience with AI systems, frontend and backend development, APIs, and multimodal AI. It also helped me understand how different parts of an AI application work together to create one complete system.
