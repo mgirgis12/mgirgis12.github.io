@@ -1,19 +1,25 @@
 ---
 layout: project
 type: project
-image: img/rag-poisoning/rag-poisoning-square.png
-title: "RAG Poisoning and AI Security"
+image: img/AI Tutor Red Team.png
+title: "AI Tutor Red Team"
 date: 2026-05-01
 published: true
 labels:
   - AI Security
+  - Red Teaming
   - RAG
+  - Large Language Models
   - Cybersecurity
-summary: "An AI security project focused on testing how poisoned information can affect a RAG-based AI system."
+summary: "An AI security research project testing AI tutors against RAG poisoning and jailbreaking attacks and evaluating ways to improve their defenses."
 ---
 
-For this project, I worked on testing the security of a Retrieval-Augmented Generation (RAG) system. The goal was to understand what can happen when incorrect or poisoned information is added to the information used by an AI system.
+## AI Tutor Red Team
 
-I tested how the AI responded when it retrieved the poisoned information and looked at how this could affect its answers. This showed me how the information used by an AI system can create security problems if it is not trusted or checked carefully.
+AI Tutor Red Team was a research project focused on finding security weaknesses in AI tutoring systems. Our team studied two main areas: RAG poisoning and jailbreaking. The goal was to understand how these attacks can affect an AI tutor and how its defenses can be improved.
 
-This project helped me learn more about RAG systems, AI security, and how attacks on the information used by an AI system can affect its responses.
+For the RAG poisoning part, we tested what happens when incorrect information is added to the knowledge base used by the AI tutor. We changed things such as wording, keywords, formatting, and placement to see how they affected the AI's answers. We found that poisoned information could sometimes cause the AI to give partially or completely incorrect answers.
+
+For the jailbreaking part, we tested different prompts to see if the AI tutor could be pushed to ignore its normal guidelines. We tested techniques such as roleplay, indirect prompts, and multi-step prompts. We also tested changes to the system prompt to see whether stronger instructions could improve the AI's defenses.
+
+This project gave me experience with AI security, red teaming, RAG systems, prompt testing, and analyzing AI behavior. It also helped me understand that AI safety is not only about building models, but also about testing how they respond when someone tries to manipulate the system.
