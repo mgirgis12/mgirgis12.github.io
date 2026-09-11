@@ -60,6 +60,18 @@ Another challenge was working with JSON and understanding how the C++ program co
 
 Working through these parts helped me better understand how a larger C++ program can be organized into smaller components.
 
+## My Contribution
+
+My contribution to this project was working on the C++ RPG game and connecting the different parts of the program. I worked with the character system, story management, and the JSON-based story to make the game function correctly.
+
+I also tested the program and worked through problems with the different C++ files and classes. This gave me more practice organizing a larger program and understanding how classes, inheritance, polymorphism, and JSON can work together.
+
+## Source Code
+
+The source code for this project is available in my GitHub repository:
+
+[View RPG Beta on GitHub](https://github.com/mgirgis12/ece205-lab14a-RPGbeta-enter-github-mgirgis12)
+
 ## What I Learned
 
 This project helped me improve my understanding of C++ and object-oriented programming. I practiced working with classes, inheritance, polymorphism, header files, and multiple source files.
