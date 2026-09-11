@@ -108,6 +108,12 @@ After getting AnyGPT working, the system provided a foundation for studying how 
 
 This makes it possible to study model weaknesses, understand how different prompts affect the system, and eventually test ways to improve AI safety.
 
+## My Contribution
+
+My main responsibility in this project was RAG poisoning. I tested how incorrect or manipulated information added to the AI tutor's knowledge base could affect its answers. I experimented with different wording, keywords, formatting, and placement of the poisoned information and compared how the AI responded.
+
+I also worked with my team to test defenses and analyze the results. This helped me understand how RAG systems can be affected by untrusted information and why protecting the knowledge base is important for AI security.
+
 ## What I Learned
 
 This project gave me experience working with multimodal AI systems, Python, Flask, APIs, Linux, and server deployment.
