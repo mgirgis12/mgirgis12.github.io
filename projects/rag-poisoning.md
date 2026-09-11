@@ -22,6 +22,11 @@ AI Tutor Red Team was a research project focused on finding security weaknesses 
 
 For this project, we tested different attacks, observed how the AI responded, and then tested different defenses. This helped us understand how AI systems can be manipulated and what can be done to make them safer.
 
+<div class="text-center">
+  <img class="img-fluid" src="../img/rag-clean-vs-poisoned.png">
+  <p><em>Comparison between a normal RAG system and a poisoned RAG system. The poisoned information can be retrieved as context and influence the model's answer.</em></p>
+</div>
+
 ## RAG Poisoning
 
 RAG stands for Retrieval-Augmented Generation. A RAG system uses information from an external knowledge base to help the AI answer questions.
@@ -74,6 +79,11 @@ Our RAG poisoning tests showed that incorrect information added to the knowledge
 Our jailbreak testing showed that prompt wording and structure were important. Simple harmful requests were usually blocked, but indirect or carefully written prompts could sometimes affect the AI's behavior.
 
 We also found that improving the system prompt helped make the AI more resistant to some attacks, although the defenses were not always completely reliable.
+
+<div class="text-center">
+  <img class="img-fluid" src="../img/rag-attack-results.png">
+  <p><em>Examples from our testing showing the model's behavior before and after the attack.</em></p>
+</div>
 
 ## Defense Testing
 
