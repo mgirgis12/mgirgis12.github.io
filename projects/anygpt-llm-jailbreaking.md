@@ -30,6 +30,9 @@ The system converts different inputs into tokens that AnyGPT can understand. Tex
 
 This allows one AI system to work with multiple types of content.
 
+<img class="img-fluid" src="../img/anygpt-architecture.png">
+*AnyGPT architecture showing how the system works with text, speech, images, and music.*
+
 ## What We Built
 
 Our team set up AnyGPT on a shared server and created a working web interface for the system.
@@ -59,6 +62,9 @@ The system was able to perform tasks including:
 - Text-to-speech
 
 These tests helped us confirm that the different parts of the AnyGPT system were working together.
+
+<img class="img-fluid" src="../img/anygpt-results.png">
+*Examples of AnyGPT testing with different input and output types.*
 
 ## Tools and Technologies
 
