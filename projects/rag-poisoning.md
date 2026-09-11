@@ -81,8 +81,8 @@ Our jailbreak testing showed that prompt wording and structure were important. S
 We also found that improving the system prompt helped make the AI more resistant to some attacks, although the defenses were not always completely reliable.
 
 <div class="text-center">
-  <img class="img-fluid" src="../img/rag-attack-results.png">
-  <p><em>Examples from our testing showing the model's behavior before and after the attack.</em></p>
+  <img class="img-fluid" src="../img/rag-poisoning-results.png">
+  <p><em>RAG poisoning test results showing how the AI response changed as the poisoned content became more influential.</em></p>
 </div>
 
 ## Defense Testing
