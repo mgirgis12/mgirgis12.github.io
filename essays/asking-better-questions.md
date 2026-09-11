@@ -41,7 +41,3 @@ This made the question difficult to understand and reproduce. It was eventually 
 Comparing these two questions showed me that asking for help is also part of problem solving. The first developer made it easier for people to help by explaining the problem and showing what they had already tried. The second question did not give enough information, so it did not lead to the same kind of useful discussion.
 
 In the future, when I need programming help, I want to first try to understand the problem myself. If I still need help, I should include the important code, explain what I tried, show what happened, and clearly explain what I expected. This can help me get better answers and also make me better at explaining technical problems.
-
-## AI Use
-
-I used ChatGPT to help organize my ideas and check my writing.
