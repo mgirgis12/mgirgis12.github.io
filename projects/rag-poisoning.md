@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/AI Tutor Red Team.png
+image: img/ai tutor red team.png
 title: "AI Tutor Red Team"
 date: 2026-05-01
 published: true
