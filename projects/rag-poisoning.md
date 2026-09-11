@@ -85,6 +85,12 @@ For jailbreaking, we strengthened the system prompt and tested the same attacks 
 
 The results showed that system prompts can help improve security, but stronger protection also requires better ways to detect attacks and validate information.
 
+## My Contribution
+
+My main responsibility in this project was RAG poisoning. I tested how incorrect or manipulated information added to the AI tutor's knowledge base could affect its answers. I experimented with different wording, keywords, formatting, and placement of the poisoned information and compared how the AI responded.
+
+I also worked with my team to test defenses and analyze the results. This helped me understand how RAG systems can be affected by untrusted information and why protecting the knowledge base is important for AI security.
+
 ## What I Learned
 
 This project gave me experience with AI security, red teaming, RAG systems, prompt testing, and analyzing AI behavior.
