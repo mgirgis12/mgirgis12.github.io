@@ -30,8 +30,10 @@ The system converts different inputs into tokens that AnyGPT can understand. Tex
 
 This allows one AI system to work with multiple types of content.
 
-<img class="img-fluid" src="../img/anygpt-architecture.png">
-*AnyGPT architecture showing how the system works with text, speech, images, and music.*
+<div class="text-center">
+  <img class="img-fluid" src="../img/anygpt-architecture.png">
+  <p><em>AnyGPT architecture showing how the system works with text, speech, images, and music.</em></p>
+</div>
 
 ## What We Built
 
@@ -62,9 +64,6 @@ The system was able to perform tasks including:
 - Text-to-speech
 
 These tests helped us confirm that the different parts of the AnyGPT system were working together.
-
-<img class="img-fluid" src="../img/anygpt-results.png">
-*Examples of AnyGPT testing with different input and output types.*
 
 ## Tools and Technologies
 
@@ -105,6 +104,11 @@ The system could accept prompts through the interface, send them through the Any
 We successfully tested text generation, image generation, image captioning, music generation, and text-to-speech.
 
 The project showed that AnyGPT could work as a multimodal AI platform, but we also found that the system could sometimes produce inconsistent results.
+
+<div class="text-center">
+  <img class="img-fluid" src="../img/anygpt-results.png">
+  <p><em>Examples of AnyGPT testing with different input and output types.</em></p>
+</div>
 
 ## AI Security and Jailbreak Research
 
