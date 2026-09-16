@@ -18,6 +18,8 @@ Before this class, I had experience with other programming languages, but TypeSc
 
 As I continued practicing, TypeScript started to make more sense. The Jamba Juice assignments helped me understand classes, constructors, arrays, and objects better. I also learned how different classes can work together in one program. I still need more practice with the syntax, but I feel more comfortable reading TypeScript code now than I did when I started.
 
+I am also getting more comfortable using TypeScript by doing the practice quizzes. Working with different datasets helped me practice using arrays and functions in different ways. Some problems take me longer because I have to think about which method to use, but testing my code in the TypeScript Playground helps me find mistakes and understand what the code is doing.
+
 ## TypeScript and Software Engineering
 
 I think TypeScript can be a good language for software engineering because it can catch some mistakes before the program runs. Declaring types can feel like extra work when I am writing the code, but it also makes it clearer what kind of information a variable or function should use. I can see how this could become more helpful when working on larger programs or working with other people.
