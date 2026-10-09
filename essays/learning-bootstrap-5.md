@@ -21,8 +21,9 @@ At first, Bootstrap was confusing because there were so many classes to remember
 While learning Bootstrap, I worked on recreating websites like Island Snow and Greek Marina. The Island Snow project helped me practice building navigation menus and organizing different parts of a webpage. For Greek Marina, I created a restaurant menu with food pictures, prices, and different categories.
 
 I used Bootstrap's grid system to organize the food items into columns. Instead of writing CSS for every picture, I could use classes like `container`, `row`, and `col` to organize the layout. I still needed some CSS for colors and spacing, but Bootstrap made the layout easier.
-![My Greek Marina restaurant menu recreated using Bootstrap 5](/img/greek-marina-bootstrap.png)
-
+<p align="center">
+  <img src="/img/greek-marina-bootstrap.png" alt="Greek Marina Bootstrap 5 website" width="600">
+</p>
 ## Why Use Bootstrap Instead of Regular CSS?
 
 I think one of the biggest benefits of Bootstrap is saving time. When building a website with regular HTML and CSS, developers have to create most of the styling themselves. Bootstrap already provides many useful classes for layouts, navigation menus, buttons, and spacing.
