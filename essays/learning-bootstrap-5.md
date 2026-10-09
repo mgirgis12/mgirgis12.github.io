@@ -21,6 +21,7 @@ At first, Bootstrap was confusing because there were so many classes to remember
 While learning Bootstrap, I worked on recreating websites like Island Snow and Greek Marina. The Island Snow project helped me practice building navigation menus and organizing different parts of a webpage. For Greek Marina, I created a restaurant menu with food pictures, prices, and different categories.
 
 I used Bootstrap's grid system to organize the food items into columns. Instead of writing CSS for every picture, I could use classes like `container`, `row`, and `col` to organize the layout. I still needed some CSS for colors and spacing, but Bootstrap made the layout easier.
+![My Greek Marina restaurant menu recreated using Bootstrap 5](/img/greek-marina-bootstrap.png)
 
 ## Why Use Bootstrap Instead of Regular CSS?
 
