@@ -10,8 +10,6 @@ labels:
   - Web Development
 ---
 
-# Learning Bootstrap 5: Is It Really Worth It?
-
 ## My Experience with Bootstrap 5
 
 When I first started learning HTML and CSS, I thought building a website would be pretty simple. But after working with Bootstrap 5, I realized there is more to web development than just adding text and images. I had to learn how to organize different sections, create navigation menus, and make everything look good on the page.
